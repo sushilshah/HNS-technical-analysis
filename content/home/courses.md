@@ -11,8 +11,8 @@ content:
   filter_button:
     - name: All Courses
       tag: '*'
-    - name: Data Visualization
-      tag: Data Visualization
+    - name: Technical Analysis
+      tag: Technical Analysis
     - name: Statistics
       tag: Statistics
 design:

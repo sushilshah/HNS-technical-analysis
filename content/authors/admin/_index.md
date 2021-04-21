@@ -1,22 +1,23 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: NDG
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Python Instructor
+role: Full time trader
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: NSE
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: NSE ka don. big bull
 
 interests:
+- Techical Analysis
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
